@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("master add code");
         System.out.println("hot-fix add code");
         System.out.println("push remote code");
+        System.out.println("pull local code");
     }
 }
